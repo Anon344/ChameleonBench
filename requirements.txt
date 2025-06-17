@@ -1,0 +1,7 @@
+openai>=1.14.0
+tiktoken>=0.6.0       # optional but useful
+pandas>=2.2.0
+matplotlib>=3.9.0
+scikit-learn>=1.5.0
+tqdm>=4.66.0
+backoff>=2.2.1

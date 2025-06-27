@@ -20,7 +20,7 @@ def log(msg: str) -> None:
     print(f"[{datetime.datetime.now():%H:%M:%S}] {msg}", flush=True)
 
 # ── OpenRouter client ────────────────────────────────────────────────────────
-OR_KEY  = "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"
+OR_KEY  = ""
 if not OR_KEY:
     raise SystemExit("❌  OPENROUTER_API_KEY env var missing")
 

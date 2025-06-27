@@ -16,7 +16,7 @@ log_file = LOG_DIR / f"debug_eval_{datetime.datetime.now():%Y%m%d_%H%M%S}.log"
 def log(msg: str) -> None:
     print(msg); log_file.open("a", encoding="utf-8").write(msg + "\n")
 
-API_KEY = "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"
+API_KEY =
 if not API_KEY:
     log("SET OPENROUTER_API_KEY"); sys.exit(1)
 

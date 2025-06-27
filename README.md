@@ -10,7 +10,7 @@ python -m venv .venv
 source .venv/bin/activate          # Windows: .\.venv\Scripts\Activate
 pip install -r requirements.txt    # seaborn  sklearn  backoff  openai
 
-# one env-var is enough for all scripts
+# Define API key...
 export OPENROUTER_API_KEY="rk_live_..."
 
 Quickstart:

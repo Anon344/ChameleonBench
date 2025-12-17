@@ -174,6 +174,3 @@ Strategic deception · Power-seeking · Reward hacking · Sycophancy · Brand bi
 
 **Questions / Issues?** Please open a GitHub issue with your command line arguments, environment info, and any error traces.
 
-```
-
-```

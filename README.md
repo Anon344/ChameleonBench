@@ -1,6 +1,4 @@
-Here is the complete content in a single Markdown code block. You can copy the code inside the block below and paste it directly into your `README.md` file.
 
-```markdown
 # ChameleonBench 🦎
 
 **A lightweight, fully-scripted benchmark for measuring alignment-faking in large language models.**
@@ -25,7 +23,6 @@ README.md
 requirements.txt
 setup.py
 
-```
 
 ## ⚙️ Setup
 
